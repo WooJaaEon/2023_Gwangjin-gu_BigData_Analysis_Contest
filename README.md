@@ -3,6 +3,7 @@
 ### 2023년 광진구 빅데이터 분석 공모전
 
 - [ 주제 ] 광진구 동별 주차문제 해결방안 제시
+- [ 대시보드 배포 link ] https://s6ckq5-0-0.shinyapps.io/voronoys_sc-master/
 
 ### 도배 하자 유형 분류 AI 경진대회
 
