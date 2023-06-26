@@ -1,4 +1,4 @@
-# 2023_Gwangjin-gu_BigData_Analysis_Contest
+# 2023 팀 프로젝트
 
 ### 2023년 광진구 빅데이터 분석 공모전
 
